@@ -1,0 +1,1 @@
+ListViewDemo will demonstrate how we will use a List in Android Application. This source code will also give an example for implementation of ListActivity and how to uses it methods.
